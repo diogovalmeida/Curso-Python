@@ -1,3 +1,0 @@
-# GERAL
-
-## Aulas de Python
