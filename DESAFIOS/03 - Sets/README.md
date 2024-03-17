@@ -3,12 +3,12 @@
 ## Desafio:
 Criar um programa que gera 3 listas de acordo com a necessidade logo abaixo:
 
-- Lista1 = Funcionários que tem carro e trabalham a noite
-- Lista2 = Funcionários que tem carro e trabalham durante o dia 
-- Lista3 = Funcionários que não tem carro
+- Lista1 = Funcionários que têm carro e trabalham a noite
+- Lista2 = Funcionários que têm carro e trabalham durante o dia 
+- Lista3 = Funcionários que não têm carro
 
 ### Exemplo de listas:
-- funcionarios = ['Ana', 'Marcos', 'Alice', 'Pedro', 'Sophia', 'Bruno', 'Melissa']
-- turno_dia = ['Ana', 'Marcos', 'Alice', 'Melissa']
-- turno_noite = ['Pedro', 'Sophia', 'Bruno']
-- tem_carro = ['Marcos', 'Alice', 'Bruno', 'Melissa']
+- funcionarios = ['Ana', 'Marco', 'Alice', 'Pedro', 'Sofia', 'Bruno', 'André']
+- turno_dia = ['Ana', 'Marco', 'Alice', 'André']
+- turno_noite = ['Pedro', 'Sofia', 'Bruno']
+- tem_carro = ['Marco', 'Alice', 'Bruno', 'André']

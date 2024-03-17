@@ -6,4 +6,4 @@ Criar um programa que calcula a quantidade de tinta necessária para pintar uma 
 - Altura 
 - Largura
 
-O programa deve mostrar na tela a mensagem 'Você necessita de x latas de tinta'
+O programa deve mostrar na tela a mensagem 'É necessário _ latas de tinta para pintar'

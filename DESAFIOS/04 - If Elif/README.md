@@ -10,4 +10,4 @@ Altura em cm e peso em kg
 - Entre 18,5 e 24,9 - Normal
 - Entre 25,0 e 29,9 - Sobrepeso
 - Entre 30,0 e 39,9 - Obesidade
-- Maior que 40,0 - Obesidade
+- Maior que 40,0 - Obesidade Grave
